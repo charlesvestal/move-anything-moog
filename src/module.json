@@ -52,6 +52,7 @@
             },
             {
               "key": "contour",
+              "short_name": "CONT",
               "label": "Contour",
               "type": "float",
               "min": 0.0,
@@ -112,6 +113,7 @@
             },
             {
               "key": "osc1_wave",
+              "short_name": "Wave",
               "label": "Osc1 Wave",
               "type": "enum",
               "options": [
@@ -124,6 +126,7 @@
             },
             {
               "key": "osc2_wave",
+              "short_name": "Wave",
               "label": "Osc2 Wave",
               "type": "enum",
               "options": [
@@ -136,6 +139,7 @@
             },
             {
               "key": "osc2_detune",
+              "short_name": "Detune",
               "label": "Osc2 Detune",
               "type": "float",
               "min": 0.0,
@@ -156,6 +160,7 @@
             },
             {
               "key": "osc1_volume",
+              "short_name": "Volume 1",
               "label": "Osc1 Vol",
               "type": "float",
               "min": 0.0,
@@ -166,6 +171,7 @@
             },
             {
               "key": "osc2_volume",
+              "short_name": "Volume 2",
               "label": "Osc2 Vol",
               "type": "float",
               "min": 0.0,
@@ -176,6 +182,7 @@
             },
             {
               "key": "osc3_volume",
+              "short_name": "Volume 3",
               "label": "Osc3 Vol",
               "type": "float",
               "min": 0.0,
