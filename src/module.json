@@ -2,7 +2,7 @@
   "id": "moog",
   "name": "RaffoSynth",
   "abbrev": "RF",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Monophonic synthesizer based on RaffoSynth (4 oscillators, Moog ladder filter)",
   "author": "Nicolas Roulet, Julian Palladino (port: charlesvestal)",
   "license": "MIT",
