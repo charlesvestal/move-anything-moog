@@ -26,15 +26,26 @@
         {
           "title": "Knob Mapping",
           "lines": [
-            "Knob 1: Cutoff",
-            "Knob 2: Resonance",
-            "Knob 3: Contour",
-            " (filter env depth)",
-            "Knob 4: Attack",
-            "Knob 5: Decay",
-            "Knob 6: Sustain",
-            "Knob 7: Release",
-            "Knob 8: Glide"
+            "Main page knobs:",
+            " 1 Cutoff",
+            " 2 Resonance",
+            " 3 Contour",
+            "  (filter env depth)",
+            " 4 Attack",
+            " 5 Decay",
+            " 6 Sustain",
+            " 7 Release",
+            " 8 Octave (-3..+3)",
+            "",
+            "Glide is not on this",
+            "row - it is the",
+            "first knob on the",
+            "Performance page.",
+            "",
+            "Submenus: Osc 1-4,",
+            "Mixer, Filter,",
+            "Filter Env, Amp Env,",
+            "LFO, Performance."
           ]
         },
         {
@@ -43,7 +54,7 @@
             "4 oscillators, each",
             "with:",
             "",
-            "Wave: Triangle, Saw,",
+            "Wave: Triangle,",
             " Sawtooth, Square,",
             " Pulse",
             "",
@@ -57,9 +68,10 @@
             " +/- 50 cents fine",
             " pitch adjust",
             "",
-            "Mix all 4 plus",
-            "white noise for",
-            "rich timbres."
+            "The Mixer page has",
+            "all four volumes",
+            "plus Noise and",
+            "master Volume."
           ]
         },
         {
@@ -100,22 +112,26 @@
         {
           "title": "LFO & Performance",
           "lines": [
-            "LFO (sine wave):",
+            "LFO page:",
             " Rate: 0.1 to 20 Hz",
+            "  (sine)",
             " Pitch: vibrato",
             " Filter: wah/sweep",
             "",
-            "Glide: portamento",
-            " time between notes",
-            "",
-            "Mod Wheel (CC 1):",
-            " Modulates LFO",
-            " depth to pitch",
-            " and filter",
-            "",
-            "Vel Sensitivity:",
-            " How much velocity",
-            " affects amplitude"
+            "Performance page:",
+            " Glide: portamento",
+            "  time between notes",
+            " Mod>Filter and",
+            "  Mod>Pitch: how far",
+            "  the mod wheel",
+            "  pushes each LFO",
+            "  depth",
+            " Bend Range: 0-12",
+            "  semitones",
+            " Vel Sens: how much",
+            "  velocity affects",
+            "  amplitude",
+            " Octave: -3 to +3"
           ]
         }
       ]
